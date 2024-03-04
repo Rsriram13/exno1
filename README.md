@@ -35,4 +35,4 @@ STEP 6: Use zscore of to remove outliers
 ![Screenshot 2024-03-04 143851](https://github.com/Rsriram13/exno1/assets/145742823/38bcbb67-8229-49df-850b-b3b1d5ffabf6)
 
 # Result
-This program has been succesfully executed
+Thus the datacleaning process has been succesfully executed
