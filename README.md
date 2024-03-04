@@ -26,6 +26,13 @@ STEP 6: Use zscore of to remove outliers
 ![output](https://github.com/Rsriram13/exno1/assets/145742823/23a66b8a-9386-4e30-b5d7-af0c3463ec34)
 ![output](https://github.com/Rsriram13/exno1/assets/145742823/dfe75a98-245c-4e4e-ba5a-cee5755c7138)
 ![output](https://github.com/Rsriram13/exno1/assets/145742823/1a386b1f-ad47-4a9b-92f4-bda4fe98c974)
+![Screenshot 2024-03-04 143734](https://github.com/Rsriram13/exno1/assets/145742823/2ce52ff8-d117-49d6-92a5-2e08168a9560)
+![Screenshot 2024-03-04 143744](https://github.com/Rsriram13/exno1/assets/145742823/bacd12f4-9503-40a4-9609-24427ffb4a2c)
+![Screenshot 2024-03-04 143744](https://github.com/Rsriram13/exno1/assets/145742823/477e7b35-b492-4d5b-8c17-47c18c143bc7)
+![Screenshot 2024-03-04 143756](https://github.com/Rsriram13/exno1/assets/145742823/20a71d65-f138-4c34-9a1d-31c34d081373)
+![Screenshot 2024-03-04 143809](https://github.com/Rsriram13/exno1/assets/145742823/208f3426-3aaa-4544-a01b-886b18df7e28)
+![Screenshot 2024-03-04 143842](https://github.com/Rsriram13/exno1/assets/145742823/acfcf34b-7b08-48a3-aa78-36d48ee92927)
+![Screenshot 2024-03-04 143851](https://github.com/Rsriram13/exno1/assets/145742823/38bcbb67-8229-49df-850b-b3b1d5ffabf6)
 
 # Result
 This program has been succesfully executed
